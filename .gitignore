@@ -1,0 +1,8 @@
+# Build output
+build/
+dist/
+*.spec.bak
+
+# Freebuff workspace state (local only)
+.freebuff/
+
